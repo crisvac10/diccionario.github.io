@@ -1,0 +1,42 @@
+body{
+    background-color: brown ;
+
+}
+.Texto{
+    border-radius: 10px;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+    border: dashed;
+}
+.send-data{
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: blueviolet;
+    cursor: pointer;
+
+}
+h1{
+    color: snow;
+    text-align: center;
+    
+}
+table{
+    border: 1px solid;
+    border-collapse: collapse;
+    border-color: blue;
+    font-size: 30px;
+    margin-top: 100px;
+  
+
+}
+th{
+    border: 1px solid;
+    border-color:aqua;
+    padding: 5px;
+}
+
+th.column-header{
+    border: aqua;
+    
+}
